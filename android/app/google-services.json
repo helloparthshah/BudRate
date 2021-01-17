@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "484774933266",
+    "firebase_url": "https://budrate.firebaseio.com",
+    "project_id": "budrate",
+    "storage_bucket": "budrate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484774933266:android:5bc5693ad6c2c95f4a39cb",
+        "android_client_info": {
+          "package_name": "com.parth.budrate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484774933266-mv6mnk31sdas5nbkml7ao6l35cle0rao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parth.budrate",
+            "certificate_hash": "46fb0f2eb855087ad7e7758549c9e85406a30f7c"
+          }
+        },
+        {
+          "client_id": "484774933266-of0klk013t113ei2o7jf1idbite573gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF0DuGXpx6nUI179rRUvD56HHTHWHJU5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484774933266-of0klk013t113ei2o7jf1idbite573gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
